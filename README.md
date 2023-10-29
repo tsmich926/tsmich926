@@ -1,5 +1,6 @@
 <div align="center">
-<h2><b>Hi👋, I'm SUA Whang</b></h2>
+<h2><b>Hi👋, I'm SUA Whang</b></h2><br/>
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tsmich926">
 
 # Introduction :raised_hands:
   ```
