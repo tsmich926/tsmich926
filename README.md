@@ -5,13 +5,11 @@
 # Introduction :raised_hands:
   ```
 👋 Hi, I’m @Sua and I'm trying to become a nice developer😎
-👀 I’m interested in CS, AI/ML/DL, Web, Algorithms, Mobile/Embedded Systems
+👀 I’m interested in CS, AI/ML/DL, Web, Algorithms
 🌱 I’m currently studying Algorithm & Web programming
-🧔 My personal Blog : [[https://blog.naver.com/tsmich926/]
-🧔 My Instargram : 
+🔆 My personal Blog :[수아의 블로그](https://blog.naver.com/tsmich926/)
+🌟 My Instargram : 
   ```
-
-
 <br/>
 <br/>
 
@@ -52,7 +50,7 @@
 \- 빅데이터 기반 농축수산물과 관련 레시피 추천 플랫폼
 
 
-\- 기간 : 2023.08.21 - 
+\- 기간 : 2023.08.21 - 2023.09.
 
 
 \- FE(Flutter)
