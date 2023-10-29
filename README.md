@@ -1,5 +1,5 @@
 <div align="center">
-<h2><b>Hi👋, I'm SUA Whang</b></h2><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tsmich926">
+<h2><b>Hi👋, I'm SUA Whang</b></h2>
 
 # Introduction :raised_hands:
   ```
@@ -12,7 +12,7 @@
 
 
 <br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tsmich926)](https://solved.ac/tsmich926)
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tsmich926">
 <br/>
 
 ## **Stack ✍**
