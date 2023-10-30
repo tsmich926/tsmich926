@@ -107,7 +107,7 @@
 
 \- FE(JS,Html,css,Flask,데이터전처리)
   <br/>
-### 👉 [깔롱쟁이(...ing 진행중)]()
+### 👉 [깔롱쟁이(...ing 진행중)](https://www.figma.com/file/t6MuhysCbZd2iwaaZT01xG/Untitled?type=design&node-id=0%3A1&mode=design&t=0DzBGhGCDl22cIy3-1)
 \-AI를 활용한 패션코디네이터 및 옷장정리 서비스
 
 
