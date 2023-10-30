@@ -7,8 +7,8 @@
 👋 Hi, I’m @Sua and I'm trying to become a nice developer😎
 👀 I’m interested in CS, AI/ML/DL, Web, Algorithms
 🌱 I’m currently studying Algorithm & Web programming
-🔆 My personal Blog :###[수아의 블로그](https://blog.naver.com/tsmich926/)
-🌟 My Instargram :###[싸피셜 인스타](https://www.instagram.com/p/Cy5Vyo6PmHT/?igshid=MzRlODBiNWFlZA==)
+ ###[🔆수아의 블로그🔆](https://blog.naver.com/tsmich926/)
+###[🌟 싸피셜 인스타🌟 ](https://www.instagram.com/p/Cy5Vyo6PmHT/?igshid=MzRlODBiNWFlZA==)
   ```
 <br/>
 <br/>
