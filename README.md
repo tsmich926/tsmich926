@@ -51,7 +51,6 @@
 
 \- 기간 : 2023.08.21 - 2023.09.
 
-
 \- FE(Flutter)
   <br/>
 
@@ -76,6 +75,7 @@
 
 \- BE(Django), FE(Vue.js)
   <br/>
+  
 ### 👉 [날씨기반 영화추천 웹서비스](https://github.com/tsmich926/SSAFYPJT_MOVIEweather)
 \- 영화 추천 웹 서비스
 \- FE(Django,vue.js)
@@ -88,7 +88,6 @@
 ### 🍄 [SNS게시글 분석을 통한 광고가이드라인제시]()
 \-
 \-
-
 
 \- 기간 : 2023.9.21 - 
 
