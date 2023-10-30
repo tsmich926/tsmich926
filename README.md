@@ -14,6 +14,8 @@
  ### [🔆수아의 블로그🔆](https://blog.naver.com/tsmich926/)
 ### [🌟 싸피셜 인스타🌟 ](https://www.instagram.com/p/Cy5Vyo6PmHT/?igshid=MzRlODBiNWFlZA==)
 
+### 👉 [채움 Chaeum](https://github.com/tsmich926/SSAFYPJT_Chaeum)
+
 <br/>
 <br/>
 ## **Stack ✍**
@@ -62,7 +64,7 @@
 
 ### 👉 [쿠크 COOKC](https://github.com/tsmich926/SSAFYPJT_COOKC) 
 🥳우수상(2등)🥳
-\- 식이제한을 가신 사람들을 위한 화상요리과외 플랫폼
+\- 질병이나 알러지로 인해 식이제한을 사람들을 위한 화상요리과외 플랫폼
 
 \- 기간 : 2023.07.04. - 2023.08.18
 
@@ -115,6 +117,7 @@
 ###  🍄 인공지능사관학교
 \- [텍스트유사도분석](https://colab.research.google.com/drive/1EhMjTg5-X3FNl7Epv1VmqHG21jwcGJyy)
 \-[멜론크롤링](https://colab.research.google.com/drive/11ogKoStuk54LLyIsyaBefML09nk5PpO8)
+\-[Keras model이미지분석]([https://colab.research.google.com/drive/11ogKoStuk54LLyIsyaBefML09nk5PpO8](https://colab.research.google.com/drive/1qdayDPsEJSROe7CFpWLZA5MDURyAJGrw))
 
 \- 기간 : 2022.7-2022.12
 
