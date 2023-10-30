@@ -16,7 +16,6 @@
 
 
 <br/>
-<br/>
 ## **Stack ✍**
 
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white"/>
@@ -95,9 +94,9 @@
 
 ### 🍄 [SNS게시글 분석을 통한 광고가이드라인제시]()
 [SNS데이터텍스트추출](https://colab.research.google.com/drive/12mK6uoAMfi3p1877f5p4E7vzTLJjW5G5)
-\-
+\- CJ remote intership
 
-\- 기간 : 2023.9.21 - 
+\- 기간 : 2022.9 -2022-12 
 
 
 \
@@ -105,7 +104,7 @@
   <br/>
 ### 🍄 [틈새판정단]() 🥳최우수상(1등)🥳
 \-인공지능사관학교
-\-
+\- YoLov5 모델을 이용한 실시간 건축물 균열 탐지시스템
 - FE(JS,Html,css,Flask,데이터전처리)
 
 \- 기간 : 2022.7-2022.9 
@@ -125,9 +124,9 @@
   
 ### 🍄 [스마트시티 기획]()
 \-AI+X코딩캠프
-\-
+\- 마이크로비트와 초음파센서등을 활용해 불법주정차로 인한 보행자 사고를 막을 수 있는 초음파센서 신호등 기획
 
-\- 기간 : 2023.9.21 - 
+\- 기간 : 2021.1 - 2021.2 
 
   <br/>
   <br/>
