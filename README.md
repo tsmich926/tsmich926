@@ -48,7 +48,7 @@
 
 ### 👉 [채움]()
 \- 빅데이터 기반 농축수산물과 관련 레시피 추천 플랫폼
-
+\-[피그마](https://www.figma.com/file/qP4JGPBDfz5SN0AO3oImIK/SSAFY-2%ED%95%99%EA%B8%B0-%ED%8A%B9%ED%99%94-PJT?type=design&node-id=233%3A1918&mode=design&t=Fe5ZloRCXruFKMA4-1)
 
 \- 기간 : 2023.08.21 - 2023.09.
 
@@ -61,10 +61,9 @@
 ### 👉 [쿠크](https://github.com/tsmich926/SSAFYPJT_COOKC) 
 🥳우수상(2등)🥳
 \- 식이제한을 가신 사람들을 위한 화상요리과외 플랫폼
-
+\-[피그마](https://www.figma.com/file/V1fbyTIiFd3kYydQngyD1S/%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84%EC%84%9C?type=design&node-id=582%3A423&mode=design&t=3cwvUjujMm5DO0BL-1)
 
 \- 기간 : 2023.07.04. - 2023.08.18
-
 
 \- FE(React)
   <br/>
