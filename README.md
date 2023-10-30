@@ -57,8 +57,9 @@
   <br/>
 
 
+
+### 👉 [쿠크](https://github.com/tsmich926/SSAFYPJT_COOKC) 
 🥳우수상(2등)🥳
-### 👉 [쿠크]([https://github.com/Speaking-Path](https://github.com/tsmich926/SSAFYPJT_COOKC) 
 \- 식이제한을 가신 사람들을 위한 화상요리과외 플랫폼
 
 
