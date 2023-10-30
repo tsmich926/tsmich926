@@ -65,6 +65,7 @@
 
 \- FE(React)
   <br/>
+  <br/>
 
 ### 👉 [MOVIESCAPE](https://github.com/tsmich926/SSAFYPJT_MOVIErecommend)
 \- 방탈출컨셉의 영화추천 웹서비스<br/>
@@ -76,6 +77,7 @@
 
 \- BE(Django), FE(Vue.js)
   <br/>
+  <br/>
   
 ### 👉 [날씨기반 영화추천 웹서비스](https://github.com/tsmich926/SSAFYPJT_MOVIEweather)
 \- 영화 추천 웹 서비스
@@ -84,6 +86,7 @@
 \- 기간 : 2023.05.17 - 2023.05.25
 
 \- BE(Django), FE(Vue.js)
+  <br/>
   <br/>
 
 ### 🍄 [SNS게시글 분석을 통한 광고가이드라인제시]()
@@ -95,6 +98,7 @@
 
 \
   <br/>
+  <br/>
 ### 🍄 [틈새판정단]() 🥳최우수상(1등)🥳
 \-인공지능사관학교
 \-
@@ -103,6 +107,7 @@
 \- 기간 : 2022.7-2022.9 
 
   <br/>
+  <br/>
   
 ### 🍄 [스마트시티 기획]()
 \-AI+X코딩캠프
@@ -110,6 +115,7 @@
 
 \- 기간 : 2023.9.21 - 
 
+  <br/>
   <br/>
   
 ### 🍄 [깔롱쟁이(...ing 진행중)](https://www.figma.com/file/t6MuhysCbZd2iwaaZT01xG/Untitled?type=design&node-id=0%3A1&mode=design&t=0DzBGhGCDl22cIy3-1)
