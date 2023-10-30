@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Yuhyeon's Github&fontSize=50" />
 
 <div align="center">
 <h2><b>Hi👋, I'm SUA Whang</b></h2><br/>
