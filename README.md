@@ -76,7 +76,7 @@
 
 \- BE(Django), FE(Vue.js)
   <br/>
-### 👉 [날씨기반 영화추천 웹서비스]()
+### 👉 [날씨기반 영화추천 웹서비스](https://github.com/tsmich926/SSAFYPJT_MOVIEweather)
 \- 영화 추천 웹 서비스
 \- FE(Django,vue.js)
 
