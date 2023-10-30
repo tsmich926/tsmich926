@@ -67,6 +67,15 @@
 \- FE(React)
   <br/>
 
+### 👉 [MOVIESCAPE](https://github.com/tsmich926/SSAFYPJT_MOVIErecommend)
+\- 방탈출컨셉의 영화추천 웹서비스
+\- FE(Django,vue.js)
+
+\- 기간 : 2023.05.17 - 2023.05.25
+
+
+\- BE(Django), FE(Vue.js)
+  <br/>
 ### 👉 [날씨기반 영화추천 웹서비스]()
 \- 영화 추천 웹 서비스
 \- FE(Django,vue.js)
