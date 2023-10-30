@@ -48,7 +48,7 @@
 
 ### 👉 [채움]()
 \- 빅데이터 기반 농축수산물과 관련 레시피 추천 플랫폼
-\-[피그마](https://www.figma.com/file/qP4JGPBDfz5SN0AO3oImIK/SSAFY-2%ED%95%99%EA%B8%B0-%ED%8A%B9%ED%99%94-PJT?type=design&node-id=233%3A1918&mode=design&t=Fe5ZloRCXruFKMA4-1)
+
 
 \- 기간 : 2023.08.21 - 2023.09.
 
@@ -61,7 +61,6 @@
 ### 👉 [쿠크](https://github.com/tsmich926/SSAFYPJT_COOKC) 
 🥳우수상(2등)🥳
 \- 식이제한을 가신 사람들을 위한 화상요리과외 플랫폼
-\-[피그마](https://www.figma.com/file/V1fbyTIiFd3kYydQngyD1S/%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84%EC%84%9C?type=design&node-id=582%3A423&mode=design&t=3cwvUjujMm5DO0BL-1)
 
 \- 기간 : 2023.07.04. - 2023.08.18
 
@@ -78,7 +77,7 @@
 \- BE(Django), FE(Vue.js)
   <br/>
 
-### 👉 [SNS게시글 분석을 통한 광고가이드라인제시]()
+### 🍄 [SNS게시글 분석을 통한 광고가이드라인제시]()
 \-
 \-
 
@@ -88,7 +87,7 @@
 
 \
   <br/>
-### 👉 [틈새판정단]() 🥳최우수상(1등)🥳
+### 🍄 [틈새판정단]() 🥳최우수상(1등)🥳
 \-인공지능사관학교
 \-
 - FE(JS,Html,css,Flask,데이터전처리)
@@ -96,7 +95,7 @@
 \- 기간 : 2022.7-2022.9 
 
   <br/>
-### 👉 [스마트시티 기획]()
+### 🍄 [스마트시티 기획]()
 \-AI+X코딩캠프
 \-
 
@@ -106,7 +105,7 @@
 
 \- FE(JS,Html,css,Flask,데이터전처리)
   <br/>
-### 👉 [깔롱쟁이(...ing 진행중)](https://www.figma.com/file/t6MuhysCbZd2iwaaZT01xG/Untitled?type=design&node-id=0%3A1&mode=design&t=0DzBGhGCDl22cIy3-1)
+### 🍄 [깔롱쟁이(...ing 진행중)](https://www.figma.com/file/t6MuhysCbZd2iwaaZT01xG/Untitled?type=design&node-id=0%3A1&mode=design&t=0DzBGhGCDl22cIy3-1)
 \-AI를 활용한 패션코디네이터 및 옷장정리 서비스
 
 
