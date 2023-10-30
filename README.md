@@ -2,17 +2,20 @@
 <h2><b>Hi👋, I'm SUA Whang</b></h2><br/>
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tsmich926">
 
+
 # Introduction :raised_hands:
   ```
 👋 Hi, I’m @Sua and I'm trying to become a nice developer😎
 👀 I’m interested in CS, AI/ML/DL, Web, Algorithms
 🌱 I’m currently studying Algorithm & Web programming
- ### [🔆수아의 블로그🔆](https://blog.naver.com/tsmich926/)
-### [🌟 싸피셜 인스타🌟 ](https://www.instagram.com/p/Cy5Vyo6PmHT/?igshid=MzRlODBiNWFlZA==)
   ```
 <br/>
 <br/>
+ ### [🔆수아의 블로그🔆](https://blog.naver.com/tsmich926/)
+### [🌟 싸피셜 인스타🌟 ](https://www.instagram.com/p/Cy5Vyo6PmHT/?igshid=MzRlODBiNWFlZA==)
 
+<br/>
+<br/>
 ## **Stack ✍**
 
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white"/>
