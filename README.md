@@ -68,8 +68,8 @@
   <br/>
 
 ### 👉 [MOVIESCAPE](https://github.com/tsmich926/SSAFYPJT_MOVIErecommend)
-\- 방탈출컨셉의 영화추천 웹서비스
-\- [발표자료](https://www.miricanvas.com/v/1234yo0) 
+\- 방탈출컨셉의 영화추천 웹서비스<br/>
+\- [발표자료](https://www.miricanvas.com/v/1234yo0) <br/>
 \- FE(Django,vue.js)
 
 \- 기간 : 2023.05.17 - 2023.05.25
