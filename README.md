@@ -12,7 +12,7 @@
 <br/>
 <br/>
 ### [🔆수아의 블로그🔆](https://blog.naver.com/tsmich926/)<br/>
-### [🌟 싸피셜 인스타🌟](https://www.instagram.com/p/Cy5Vyo6PmHT/?igshid=MzRlODBiNWFlZA==)
+### [🌟 싸피셜 인스타🌟](https://www.instagram.com/p/Cy5Vyo6PmHT/?igshid=MzRlODBiNWFlZA==)<br/>
 
 
 <br/>
