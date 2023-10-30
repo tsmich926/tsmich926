@@ -16,10 +16,11 @@
 
 <h3 align="center"><b>💌 Social 💌 </b></h3>
 </br>
+https://blog.naver.com/tsmich926
 <p align="center">
 <a href="mailto:tsmich926@naver.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:tsmich926@naver.com"/></a>
 <a href="https://www.instagram.com/ssaficial_ssu"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/ssaficial_ssu"/></a>
-<a href="https://velog.io/@tsmich926"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@tsmich926"/></a>
+<a href="https://blog.naver.com/tsmich926"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://blog.naver.com/tsmich926"/></a>
 </p>
 
 <br/>
