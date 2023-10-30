@@ -90,7 +90,7 @@
   <br/>
 
 ### 🍄 [SNS게시글 분석을 통한 광고가이드라인제시]()
-\-
+[SNS데이터텍스트추출](https://colab.research.google.com/drive/12mK6uoAMfi3p1877f5p4E7vzTLJjW5G5)
 \-
 
 \- 기간 : 2023.9.21 - 
