@@ -46,7 +46,7 @@
 ## **Project ✍**
 </div>
 
-### 👉 [채움](https://github.com/tsmich926/SSAFYPJT_Chaeum)
+### 👉 [채움 Chaeum](https://github.com/tsmich926/SSAFYPJT_Chaeum)
 \- 빅데이터 기반 농축수산물과 관련 레시피 추천 플랫폼
 
 \- 기간 : 2023.08.21 - 2023.09.
