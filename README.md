@@ -108,6 +108,14 @@
 
   <br/>
   <br/>
+### 🍄 인공지능사관학교
+\-[텍스트유사도분석](https://colab.research.google.com/drive/1EhMjTg5-X3FNl7Epv1VmqHG21jwcGJyy)
+\-
+
+\- 기간 : 2022.7-2022.12
+
+  <br/>
+  <br/>
   
 ### 🍄 [스마트시티 기획]()
 \-AI+X코딩캠프
