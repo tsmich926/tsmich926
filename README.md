@@ -117,7 +117,7 @@
 ###  🍄 인공지능사관학교
 \- [텍스트유사도분석](https://colab.research.google.com/drive/1EhMjTg5-X3FNl7Epv1VmqHG21jwcGJyy)  <br/>
 \-[멜론크롤링](https://colab.research.google.com/drive/11ogKoStuk54LLyIsyaBefML09nk5PpO8)  <br/>
-\-[Keras model이미지분석]([https://colab.research.google.com/drive/11ogKoStuk54LLyIsyaBefML09nk5PpO8](https://colab.research.google.com/drive/1qdayDPsEJSROe7CFpWLZA5MDURyAJGrw))  <br/>
+\-[Keras model이미지분석](https://colab.research.google.com/drive/11ogKoStuk54LLyIsyaBefML09nk5PpO8)  <br/>
 
 \- 기간 : 2022.7-2022.12
 
