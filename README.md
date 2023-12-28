@@ -108,7 +108,7 @@
 \
   <br/>
   <br/>
-### 🍄 [틈새판정단]() 🥳최우수상(1등)🥳
+### 🍄 [틈새판정단](https://github.com/tsmich926/AISCHOOL_PJT) 🥳최우수상(1등)🥳
 \-인공지능사관학교
 \- YoLov5 모델을 이용한 실시간 건축물 균열 탐지시스템
 - FE(JS,Html,css,Flask,데이터전처리)
