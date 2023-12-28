@@ -98,9 +98,9 @@
   <br/>
   <br/>
 
-### 🍄 [SNS게시글 분석을 통한 광고가이드라인제시]()
+### 🍄 [SNS게시글 분석을 통한 광고가이드라인제시](https://colab.research.google.com/drive/12mK6uoAMfi3p1877f5p4E7vzTLJjW5G5)
 [SNS데이터텍스트추출](https://colab.research.google.com/drive/12mK6uoAMfi3p1877f5p4E7vzTLJjW5G5)
-\- CJ remote intership
+\- CJ올리브네트웍스에서 진행한 CJ remote intership
 
 \- 기간 : 2022.9 -2022-12 
 
