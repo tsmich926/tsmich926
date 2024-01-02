@@ -76,6 +76,19 @@
   <br/>
   <br/>
 
+
+### 🍄 [깔롱쟁이](https://github.com/tsmich926/SSAFYPJT_Kkalong)
+\-AI를 활용한 패션코디네이터 및 옷장정리 서비스
+
+
+\- 기간 : 2023.9.21 - 11.27
+
+\- FE(Flutter)
+  <br/>
+
+
+
+
 ### 👉 [MOVIESCAPE](https://github.com/tsmich926/SSAFYPJT_MOVIErecommend)
 \- 방탈출컨셉의 영화추천 웹서비스<br/>
 \- [발표자료](https://www.miricanvas.com/v/1234yo0) <br/>
@@ -137,11 +150,4 @@
   <br/>
   <br/>
   
-### 🍄 [깔롱쟁이(...ing 진행중)](https://github.com/tsmich926/SSAFYPJT_Kkalong)
-\-AI를 활용한 패션코디네이터 및 옷장정리 서비스
 
-
-\- 기간 : 2023.9.21 - 11.27
-
-\- FE(Flutter)
-  <br/>
